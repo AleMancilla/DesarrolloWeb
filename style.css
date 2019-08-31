@@ -1,3 +1,9 @@
- * {
-     color: brown;
- }
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: coral;
+}
+
+.article-header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+}
